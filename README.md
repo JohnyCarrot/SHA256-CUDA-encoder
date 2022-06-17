@@ -9,7 +9,7 @@ result_count - set a tolerance for lower difficulty. For example if result_count
 
 
 
-`$ nvcc -o hash_program main.cu`
+
 
 Example run:
 

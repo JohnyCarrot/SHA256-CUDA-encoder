@@ -9,8 +9,7 @@ Nonce - Starting nonce value
 Difficulty - number of zeros
 
 result_count - set a tolerance for lower difficulty. For example if result_count is 2 and difficulty is 10 and hash with 9 zeros is found, then this hash (with nonce) 
-
-               will be displayed. Default is 1.
+              will be displayed. Default is 1.
 
 
 

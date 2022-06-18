@@ -3,9 +3,14 @@
 This program is supposed to encode any text to SHA256 hash starting with n zeros.
 
 Enter a message - here you type your text
+
 Nonce - Starting nonce value
+
 Difficulty - number of zeros
-result_count - set a tolerance for lower difficulty. For example if result_count is 2 and difficulty is 10 and hash with 9 zeros is found, then this hash (with nonce)                will be displayed. Default is 1.
+
+result_count - set a tolerance for lower difficulty. For example if result_count is 2 and difficulty is 10 and hash with 9 zeros is found, then this hash (with nonce) 
+
+               will be displayed. Default is 1.
 
 
 
